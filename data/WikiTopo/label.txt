@@ -1,0 +1,8 @@
+Unclear(e1,e2)
+Disjoint(e1,e2)
+Equals(e1,e2)
+Touches(e1,e2)
+Overlaps(e1,e2)
+Contains(e1,e2)
+Within(e1,e2)
+Crosses(e1,e2)
